@@ -1,6 +1,6 @@
 # Servcat
-|\\\_/|
- `o.o'
+ |\_/|  
+ `o.o'  
  c(_) Servcat is a simple HTTP server with a flavor of cats
 
 by James Chuang
@@ -14,14 +14,14 @@ $ ruby servcat.rb
 
 You can use the servcat to run a minimal server. It will prompt you when the server is started along with a little ACSII style cat.
 ```shell
-|\\\_/|
+ |\_/|
  `o.o'
  c(_) Meow Port 3003 Now Open
 ```
 
 It will also prompt you for every HTTP request in the terminal like this:
 ```shell
-|\\\_/|
+ |\_/|
  `o.o'
  c(_) Kitty trying to GET / HTTP/1.1
 ```
