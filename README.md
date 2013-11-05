@@ -1,7 +1,9 @@
 # Servcat
-|\\_/|  
- `o.o'  
+```shell
+ |\_/|
+ `o.o'
  c(_) Servcat is a simple HTTP server with a flavor of cats
+```
 
 by James Chuang
 ## Description
