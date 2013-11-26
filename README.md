@@ -28,7 +28,7 @@ It will also prompt you for every HTTP request in the terminal like this:
  c(_) Kitty trying to GET / HTTP/1.1
 ```
 
-### Known Issues
+## Known Issues
 
 There are currently no known issues.
 
